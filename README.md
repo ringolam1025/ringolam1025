@@ -10,8 +10,7 @@ function getUserInfo(){
     return array(
                     "Name" => "Ringo Lam",
                     "Role" => "Web Developer" 
-                    "City" => "Hong Kong",
-                    "Relocate_To" => "Calgary, Canada"
+                    "City" => "Calgary, Canada",
                     "Hobbies" => array(
                                         "Games" => array(
                                                         "Overcooked 2",
